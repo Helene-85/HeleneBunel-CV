@@ -1,7 +1,8 @@
 Lien vers la page web : https://helene-mb.github.io/HeleneBunel-CV/
 
 - Réalisé par : Hélène Bunel 
-- Contenu : Site web du projet 2 de la formation Développeur Web Junior d'Openclassrooms 
+- Contenu : Site web du projet 2 de la formation Développeur Web Junior d'Openclassrooms
+"Transformez votre CV en site Web"
 - Progression : Projet validé le 17 juin 2020 
 - Langages : HTML5 et CSS3 sur Visual Studio Code
 - Source : Exercice d'évalutation pour la validation du projet 2 de la formation Développeur Web d'Openclassrooms 
